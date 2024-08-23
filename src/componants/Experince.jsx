@@ -8,6 +8,7 @@ const Experince = () => {
 <>
       <div className="container ex" id="Experince">
         <h1>EXPERIENCE</h1>
+        
         {experience.map((data) => {
           return (
             <>
@@ -20,9 +21,15 @@ const Experince = () => {
                 <div className="left">
                   <img src={`/assets/${data.imageSrc}`} alt="" />
                 </div>
+
+                <span style={{ color: "White" }}>
+                      {data.imageSrc}{data.organisation}{" "}
+                    </span>{" "}
+
                 <div className="right">
                   <h2>{data.role}</h2>
                   <h4>
+                   
                     <span style={{ color: "yellowgreen" }}>
                       {data.startDate} {data.endDate}{" "}
                     </span>{" "}

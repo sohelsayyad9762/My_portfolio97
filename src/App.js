@@ -9,6 +9,7 @@ import Contact from "./componants/Contact";
 import Aos from "aos";
 import "aos/dist/aos.css"
 
+
 function App() {
   
   useEffect(() => {

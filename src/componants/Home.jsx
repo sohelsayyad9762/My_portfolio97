@@ -36,7 +36,7 @@ const Home = () => {
         data-aos-duration="1000">
        
         <h1 ref={typedRef} >
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo, modi?
+
         </h1>
 
 

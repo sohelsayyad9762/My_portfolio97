@@ -20,19 +20,19 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
+    "title":"Java",
+    "imageSrc":"skills/java.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Spring",
+    "imageSrc": "skills/spring.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "MySQL",
+    "imageSrc": "skills/sql.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Git",
+    "imageSrc": "skills/git.png"
   }
 ]
